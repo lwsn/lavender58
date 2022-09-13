@@ -1,0 +1,11 @@
+file_format: "1"
+id: lavender58
+name: Lavender58
+type: shield
+url: https://github.com/lwsn/lavender58
+requires: [nice_nano]
+features:
+  - keys
+siblings:
+  - lavender58_left
+  - lavender58_right
