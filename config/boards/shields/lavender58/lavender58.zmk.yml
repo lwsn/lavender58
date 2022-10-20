@@ -3,7 +3,7 @@ id: lavender58
 name: Lavender58
 type: shield
 url: https://github.com/lwsn/lavender58
-requires: [pro_micro]
+requires: [seeed_xiao_ble]
 features:
   - keys
 siblings:
