@@ -17,3 +17,5 @@ include:
     shield: lavender58_left
   - board: seeeduino_xiao_ble
     shield: lavender58_right
+  - board: seeeduino_xiao_ble
+    shield: settings_reset
