@@ -4,7 +4,7 @@
 if SHIELD_LAVENDER58_LEFT
 
 config ZMK_KEYBOARD_NAME
-	default "Lavender58"
+	default "Lavender58-2"
 
 config ZMK_SPLIT_ROLE_CENTRAL
 	default y
