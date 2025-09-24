@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
   (lib (name "mcu")(type "KiCad")(uri "${KIPRJMOD}/mcu.kicad_sym")(options "")(descr ""))
+  (lib (name "lavender58")(type "KiCad")(uri "${KIPRJMOD}/lavender58.kicad_sym")(options "")(descr ""))
 )

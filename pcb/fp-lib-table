@@ -1,4 +1,5 @@
 (fp_lib_table
   (version 7)
   (lib (name "TOTEMlib")(type "KiCad")(uri "${KIPRJMOD}/TOTEMlib.pretty")(options "")(descr ""))
+  (lib (name "lavender58lib")(type "KiCad")(uri "${KIPRJMOD}/lavender58lib.pretty")(options "")(descr ""))
 )
