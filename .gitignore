@@ -1,2 +1,4 @@
 pcb/plots
 pcb/lavender58-backups
+.DS_Store
+*.lck
